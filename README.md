@@ -19,7 +19,7 @@ and learning while making things
 ### languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,html,cs,hpp,python,js,lua" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,cs,python,js,lua" />
 </p>
 
 ### infrastructure
