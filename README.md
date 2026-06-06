@@ -2,14 +2,14 @@
 ## about me
 
 ```txt
-theo / @meowpurrpur
+yero / @yerow6
 
 self-taught developer with experience across
-backend systems, frontend applications,
-networking, infrastructure, and databases.
+multiple various platforms, working on
+many different things (whatever interests me)
 
-i enjoy building things, learning new stacks,
-and figuring out how systems work.
+i enjoy learning things, learning from things,
+and learning while making things
 ```
 
 ---
@@ -22,24 +22,8 @@ and figuring out how systems work.
   <img src="https://skillicons.dev/icons?i=cpp,rust,cs,go,python,js,ts" />
 </p>
 
-### frameworks & tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,electron,tauri,express,postgres" />
-</p>
-
 ### infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,clion" />
+  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode" />
 </p>
-
----
-
-## github stats
-
-<div align="center">
-  <img src="https://ghstats.dev/api/card?username=meowpurrpur&theme=catppuccin&hide_title=true" alt="GitHub Stats Card" />
-  <br></br>
-<img src="https://ghstats.dev/api/langs?username=meowpurrpur&theme=catppuccin&max_langs=5" alt="Top Languages" />
-</div>
